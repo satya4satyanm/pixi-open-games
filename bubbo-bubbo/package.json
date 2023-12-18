@@ -27,7 +27,7 @@
     "devDependencies": {
         "@assetpack/cli": "~0.3.4",
         "@assetpack/plugin-compress": "~0.3.4",
-        "@assetpack/plugin-ffmpeg": "~0.3.4",
+        "@assetpack/plugin-ffmpeg": "^0.3.4",
         "@assetpack/plugin-json": "~0.3.4",
         "@assetpack/plugin-manifest": "~0.3.4",
         "@assetpack/plugin-mipmap": "~0.3.4",
